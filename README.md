@@ -1,2 +1,14 @@
 # Client-Server-Development
 This is work from my Client/Server Development class at SNHU
+
+<h2> How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future? </h2>
+
+The way that I made my code readable was by commenting where It was needed. This is espcially important to make sure that who ever is reading your code can understand what your logic is behind the code. Using a CRUD module that was in a differnt file also made the project more readable and easier to maintain because everything is less clutterd and it is easier to find and edit differnt parts of the code. If the CRUD module was inside of the dashboard then it may make the file hard to navigate and edit where it is needed.
+
+<h2> How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests? </h2>
+
+I think the first thing that needs to be done when approaching a problem as a computer scientist is to know what the requirements are. If you have the requirements like I did, great, if not then they needed to be collected. The next part is planning, what needs to go into the project? This class did a really good job of telling what the requirements were so it was easy to plan what I needed to do. The techniques that I will use in the future is the CRUD module. I think the way that project set up the CRUD module so it would be important to the DASH app was a good way to keep the project organized and readable. 
+
+<h2> What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better? </h2>
+
+Computer Scientist make computers do what we as humans need/want them to do. This goes all the way back to the simpliest computers when computer scientists were writing machine code. Computer scienist has, and will continue to increase in complexity and this allows for computer scientists to achieve some really great things thought to be impossible 20-30 years ago. This matters because computer science has continued to make our lives easier, improve our health and knowledge, and many other benefits that we have seen through the last few decades. My work on this project helps companies like Grazioso Salvare because it provides a solution to their costumer and allows Grazioso Salvare to fufill their costumers needs. 
